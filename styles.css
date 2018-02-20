@@ -1,0 +1,117 @@
+ #headings {
+   display: grid;
+   margin: auto;
+   padding: 20px 20px;
+   text-align: center;
+   background-image: url(../assets/backgrounds/landing.jpg);
+ }
+
+  #top {
+    display: block;
+    margin: auto;
+  }
+
+  #happyhour {
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+    float: left;
+  }
+
+  #partytime {
+    background-color: orange;
+    text-align: center;
+    font-weight: bold;
+  }
+
+   #breakfast {
+     text-align: center;
+     font-weight: bold;
+     background-image: url(../assets/foodtop/breakfast.jpg);
+   }
+
+   #lunch {
+     text-align: center;
+     font-weight: bold;
+     background-image: url(../assets/foodtop/lunch.jpg);
+   }
+   #dinner {
+     text-align: center;
+     font-weight: bold;
+     background-image: url(../assets/foodtop/dinner.jpg);
+   }
+
+  #jumbo {
+    background-color: white;
+    display: block;
+    float: left;
+  }
+
+   #fastfoods {
+     display: block;
+     margin: auto;
+     padding: 20px 20px;
+     position: relative;
+     float: right;
+   }
+
+    #drinks {
+      display: block;
+      margin: auto;
+      padding: 20px 20px;
+      position: relative;
+      float: left;
+    }
+
+   #drink1 {
+     display: block;
+     margin: auto;
+     padding: 20px 20px;
+     position: relative;
+     float: right;
+   }
+
+    #drink2 {
+      display: block;
+      margin: auto;
+      padding: 20px 20px;
+      position: relative;
+      float: right;
+    }
+
+  #jumbotron1 {
+    display: grid;
+    margin: auto;
+    padding: 100px 120px;
+    background-image: url(../assets/backgrounds/foodsBg.jpg);
+  }
+
+  #row1 {
+    display: grid;
+    margin: auto;
+    padding: inherit;
+  }
+
+  #jumbotron2 {
+    display:grid;
+    font-size: 12;
+    margin: auto;
+    padding: 100px 120px;
+  }
+
+ #subscribe {
+   display: grid;
+   margin:auto;
+   padding: 20px 20px;
+   text-align: center;
+   background-image: url(../assets/backgrounds/subscribe.jpg);
+ }
+
+
+  #row3 {
+    display: grid;
+    margin: auto;
+    padding: 80px 80px;
+    text-align: center;
+    background-color: darkorange;
+  }
